@@ -13,7 +13,6 @@
 * Python 3.9
 * pytest
 * pytest-html
-* The Sleuth Kit (TSK)
 * GitHub Actions
 
 ---
